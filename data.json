@@ -1,0 +1,320 @@
+[
+    {
+        "level": "Example",
+        "charCount": 3,
+        "charDiffCount": 1,
+        "lang": "en",
+        "wordList": [
+            {
+                "content": ["M", "U", "D"],
+                "en": "A soft, sticky substance resulting from the mixing of earth and water",
+                "ja": "土と水を混ぜると柔らかくてねばねばするもの"
+            },
+            {
+                "content": ["M", "A", "D"],
+                "en": "Angry",
+                "ja": "怒ってる"
+            },
+            {
+                "content": ["M", "A", "T"],
+                "en": "Little rug at the door",
+                "ja": "ドア前に小さいラグ"
+            },
+            {
+                "content": ["B", "A", "T"],
+                "en": "Used in baseball",
+                "ja": "野球に使い物"
+            },
+            {
+                "content": ["こ", "ん", "しゅ", "う"],
+                "en": "This week",
+                "ja": "今週"
+            }
+        ]
+    },
+    {
+        "level": 1,
+        "charCount": 4,
+        "charDiffCount": 1,
+        "lang": "en",
+        "wordList": [
+            {
+                "content": ["L", "O", "S", "T"],
+                "en": "Didn't win",
+                "ja": "勝たなかった"
+            },
+            {
+                "content": ["M", "O", "S", "T"],
+                "en": "Greatest in amount, quantity, or degree",
+                "ja": "量または程度が最大"
+            },
+            {
+                "content": ["M", "O", "S", "S"],
+                "en": "Type of small flowerless green plant that grows in damp places",
+                "ja": "湿った場所に生える小さな花がない緑色の植物の一種"
+            },
+            {
+                "content": ["M", "I", "S", "S"],
+                "en": "Opposite of Cache hit is Cache ____?",
+                "ja": "キャッシュヒットの反対はキャッシュ____?"
+            },
+            {
+                "content": ["H", "I", "S", "S"],
+                "en": "The sound of a snake",
+                "ja": "蛇の威嚇音(いかくおん)"
+            },
+            {
+                "content": ["H", "I", "P", "S"],
+                "en": "Famous Shakira's song: ____ don't lie",
+                "ja": "有名なShakiraの歌: ____ don't lie"
+            },
+            {
+                "content": ["T", "I", "P", "S"],
+                "en": "In America, people leave ____ for waiters in restaurant",
+                "ja": "アメリカでは、レストランのウェイターに___をあげる"
+            },
+            {
+                "content": ["T", "I", "C", "S"],
+                "en": "The main symptoms of Tourette's syndrome",
+                "ja": "トゥレット症候群(しょうこうぐん)の主な症状(しょうじょう)"
+            },
+            {
+                "content": ["K", "I", "C", "K"],
+                "en": "The action of moving a ball with your feet",
+                "ja": "足でボールを動かす動作"
+            },
+            {
+                "content": ["S", "I", "C", "K"],
+                "en": "Feeling under the weather",
+                "ja": "体調が悪く感じる"
+            }
+        ]
+    },
+    {
+        "level": 2,
+        "charCount": 4,
+        "charDiffCount": 2,
+        "lang": "ja",
+        "wordList": [
+            {
+                "content": ["せ", "ん", "せ", "い"],
+                "en": "People who teach others for a living",
+                "ja": "人に教える人"
+            },
+            {
+                "content": ["せ", "ん", "そ", "う"],
+                "en": "Countries fighting each other",
+                "ja": "互いに戦う国々"
+            },
+            {
+                "content": ["さ", "ん", "こ", "う"],
+                "en": "Reference",
+                "ja": "いろんな他のものと引き比べて自分の考えのたしにすること。"
+            },
+            {
+                "content": ["し", "ん", "ぞ", "う"],
+                "en": "Blood pumping organ",
+                "ja": "血液を送り出す臓器"
+            },
+            {
+                "content": ["し", "ん", "にゅ", "う"],
+                "en": "Person who newly joins an organization",
+                "ja": "組織に入ったばかりの人"
+            },
+            {
+                "content": ["ぎゅ", "う", "にゅ", "う"],
+                "en": "Drinkable liquid comes from cows",
+                "ja": "牛から飲める液体"
+            },
+            {
+                "content": ["そ", "う", "ぞ", "う"],
+                "en": "The ability of the brain to be creative",
+                "ja": "脳のクリエーティブになる能力"
+            },
+            {
+                "content": ["そ", "う", "で", "す"],
+                "en": "Commonly used phrase when agreeing with somebody during everyday conversation",
+                "ja": "他に賛成するとき日常会話で使ってる言葉"
+            },
+            {
+                "content": ["そ", "う", "だ", "ん"],
+                "en": "Consultation, discussion",
+                "ja": "何かについて他の意見を聞く"
+            },
+            {
+                "content": ["じょ", "う", "だ", "ん"],
+                "en": "A joke. Like: \"What do you call a laughing motorcycle? A Yamahahahahahahaha\"",
+                "ja": "人を笑わせように、だじゃれをはじめとするもの"
+            }
+        ]
+    },
+    {
+        "level": 3,
+        "charCount": 5,
+        "charDiffCount": 2,
+        "lang": "en",
+        "wordList": [
+            {
+                "content": ["P", "A", "N", "D", "A"],
+                "en": "Animal that eats bamboo, commonly found in China",
+                "ja": "中国に多くて竹を食う動物"
+            },
+            {
+                "content": ["S", "A", "N", "D", "Y"],
+                "en": "Covered with sand / A _____ beach",
+                "ja": "砂まみれのビーチ"
+            },
+            {
+                "content": ["N", "A", "N", "N", "Y"],
+                "en": "A person employed to look after a child",
+                "ja": "赤ちゃんに気をつけるため採用される人"
+            },
+            {
+                "content": ["F", "U", "N", "N", "Y"],
+                "en": "Comical, humorous",
+                "ja": "面白い"
+            },
+            {
+                "content": ["F", "U", "R", "R", "Y"],
+                "en": "Pets are referred to as our ____ friends",
+                "ja": "毛むくじゃら"
+            },
+            {
+                "content": ["S", "O", "R", "R", "Y"],
+                "en": "A humble apology",
+                "ja": "謝罪"
+            },
+            {
+                "content": ["S", "C", "A", "R", "Y"],
+                "en": "Horrifying",
+                "ja": "怖い"
+            },
+            {
+                "content": ["S", "P", "A", "R", "E"],
+                "en": "Refrain from taking someone's life",
+                "ja": "誰かの命を奪う(うばう)のを控える(ひかえる)"
+            },
+            {
+                "content": ["A", "P", "A", "R", "T"],
+                "en": "Separated from eachother",
+                "ja": "互いに分離"
+            },
+            {
+                "content": ["A", "W", "A", "R", "D"],
+                "en": "One Piece is the _____ winner of this year's Best Continuing Series",
+                "ja": "授賞式で勝った方にもらうもの"
+            }
+        ]
+    },
+    {
+        "level": 4,
+        "charCount": 6,
+        "charDiffCount": 2,
+        "lang": "ja",
+        "wordList": [
+            {
+                "content": ["きゅ", "う", "きゅ", "う", "しゃ"],
+                "en": "The car that takes people to the hospital",
+                "ja": "人を病院に運ぶ車"
+            },
+            {
+                "content": ["きゅ", "う", "りょ", "う", "び"],
+                "en": "The day on which workers receive their salary",
+                "ja": "給与を受け取る日"
+            },
+            {
+                "content": ["て", "い", "きゅ", "う", "び"],
+                "en": "Regular holiday/Fixed holiday",
+                "ja": "あらかじめ日を定めて業務を休む日"
+            },
+            {
+                "content": ["て", "い", "き", "け", "ん"],
+                "en": "Tickets that you can reuse for a period of time",
+                "ja": "一定期間再利用できるチケット"
+            },
+            {
+                "content": ["て", "い", "き", "て", "き"],
+                "en": "Regularly",
+                "ja": "物事が一定の期間を置いて行われるさま"
+            },
+            {
+                "content": ["ひ", "て", "い", "て", "き"],
+                "en": "Opposite of affirmative",
+                "ja": "「肯定的」(こうていてき)の対極にある言葉"
+            },
+            {
+                "content": ["ひ", "て", "い", "ぶ", "ん"],
+                "en": "A negative/denial sentence",
+                "ja": "そうではないという内容を表す文"
+            },
+            {
+                "content": ["ふ", "じゅ", "う", "ぶ", "ん"],
+                "en": "Not enough",
+                "ja": "足りない"
+            }
+        ]
+    },
+    {
+        "level": 5,
+        "charCount": 6,
+        "charDiffCount": 2,
+        "lang": "en",
+        "wordList": [
+            {
+                "content": ["F", "R", "I", "D", "A", "Y"],
+                "en": "What day is today?",
+                "ja": "今日は何曜日ですか?"
+            },
+            {
+                "content": ["F", "R", "E", "A", "K", "Y"],
+                "en": "Very odd, strange, weird",
+                "ja": "非常に変"
+            },
+            {
+                "content": ["F", "R", "A", "N", "K", "Y"],
+                "en": "Name of a Straw Hat Crew member in One Piece",
+                "ja": "ワンピースの麦わら海賊団の一人の名前"
+            },
+            {
+                "content": ["F", "R", "A", "N", "C", "E"],
+                "en": "Baguette",
+                "ja": "バゲット"
+            },
+            {
+                "content": ["C", "H", "A", "N", "C", "E"],
+                "en": "Opportunity. To Seize everything you ever wanted. In one moment. Would you capture it? Or just let it slip?",
+                "ja": "機会"
+            },
+            {
+                "content": ["C", "H", "O", "I", "C", "E"],
+                "en": "An act of picking between two or more possibilities",
+                "ja": "2つ以上の可能性から選ぶ事"
+            },
+            {
+                "content": ["C", "H", "O", "K", "E", "R"],
+                "en": "An accessory for the neck, popular in gothic style",
+                "ja": "ゴシックファッションに有名な首のアクセサリー"
+            },
+            {
+                "content": ["S", "I", "C", "K", "E", "R"],
+                "en": "Become more ill",
+                "ja": "病気がもっとひどくなる"
+            },
+            {
+                "content": ["S", "I", "N", "N", "E", "R"],
+                "en": "Someone who has done something wrong",
+                "ja": "悪いことをした人"
+            },
+            {
+                "content": ["S", "I", "N", "F", "U", "L"],
+                "en": "Against the rules of a religion or morally wrong",
+                "ja": "道徳的に間違っていること"
+            },
+            {
+                "content": ["J", "O", "Y", "F", "U", "L"],
+                "en": "Name of one of the working area of Colorkrew Office",
+                "ja": "Colorkrewで一つ区域の名"
+            }
+        ]
+    }
+]
