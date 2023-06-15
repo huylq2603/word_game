@@ -21,14 +21,14 @@
                 "ja": "ドア前に小さいラグ"
             },
             {
-                "content": ["B", "A", "T"],
-                "en": "Used in baseball",
-                "ja": "野球に使い物"
-            },
-            {
                 "content": ["いっ", "しょ", "う"],
                 "en": "Lifetime",
                 "ja": "一生"
+            },
+            {
+                "content": ["いっ", "か", "い"],
+                "en": "Once",
+                "ja": "一回"
             }
         ]
     },
