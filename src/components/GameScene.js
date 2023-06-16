@@ -9,7 +9,7 @@ export const GameScene = () => {
 
 
     useEffect(() => {
-        fetch('/word_game/game_data_20230623.json')
+        fetch('game_data_20230623.json') // local: /word_game/<...>.json, deployed: <...>.json
             .then((res) => res.json())
             .then((data) => {
                 setGameData(data);
