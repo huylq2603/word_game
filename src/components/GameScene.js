@@ -9,7 +9,7 @@ export const GameScene = () => {
 
 
     useEffect(() => {
-        fetch(`data.json`)
+        fetch('/game_data_20230623.json') // local: /word_game/<...>.json, deployed: /<...>.json
             .then((res) => res.json())
             .then((data) => {
                 setGameData(data);
@@ -36,7 +36,7 @@ export const GameScene = () => {
                     <h1>Word Guesser</h1>
                     <div className="input-field">
                         <input value={delay} onChange={e => setDelay(e.target.value)} id="delay" type="text" />
-                        <label class="active" for="delay">Delay Between Words (seconds)</label>
+                        <label className="active" htmlFor="delay">Delay Between Words (seconds)</label>
                     </div>
                 </div>
                 <div className="row">

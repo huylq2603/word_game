@@ -89,6 +89,7 @@ export const Level = ({ levelData, setCurrentLevel, delay }) => {
             {wordList.length > 0 && renderHandler()}
             <div className="description">
                 {currentIndex !== wordList.length - 1 && <>
+                    {levelData.lang === 'ja' && isShowingAnswer && <div>{wordList[currentIndex].kanji ?? ''}</div>}
                     <div>Word No. {isShowingAnswer ? currentIndex + 1 : currentIndex + 2}/{wordList.length}</div>
                     <div>{wordList[isShowingAnswer ? currentIndex : currentIndex + 1].en}</div>
                     <div>{wordList[isShowingAnswer ? currentIndex : currentIndex + 1].ja}</div>
