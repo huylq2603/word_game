@@ -23,12 +23,14 @@
             {
                 "content": ["いっ", "しょ", "う"],
                 "en": "Lifetime",
-                "ja": "一生"
+                "ja": "一生",
+                "kanji": "一生"
             },
             {
                 "content": ["いっ", "か", "い"],
                 "en": "Once",
-                "ja": "一回"
+                "ja": "一回",
+                "kanji": "一回"
             }
         ]
     },
@@ -97,70 +99,64 @@
         "lang": "ja",
         "wordList": [
             {
-                "content": ["て", "ん", "と"],
-                "en": "A portable shelter often used during picnic",
+                "content": ["お", "く", "ば"],
+                "en": "Broad and flat teeth in the back of a mammal, used for grinding food",
                 "ja": "",
-                "kanji": "テント"
+                "kanji": "奥歯"
             },
             {
-                "content": ["て", "ん", "り"],
-                "en": "The laws of nature that lead to all things",
+                "content": ["お", "き", "ば"],
+                "en": "A place to store things",
                 "ja": "",
-                "kanji": "天理"
+                "kanji": "置き場"
             },
             {
-                "content": ["べ", "ん", "り"],
-                "en": "Useful, makes life easier",
+                "content": ["お", "き", "る"],
+                "en": "The first thing you do in the morning",
                 "ja": "",
-                "kanji": "便利"
+                "kanji": "起きる"
             },
             {
-                "content": ["け", "ん", "り"],
-                "en": "Moral or legal entitlement to have or do something",
+                "content": ["お", "ど", "る"],
+                "en": "What Ziyu teached in last week's Joyful Friday/Body moving to music",
                 "ja": "",
-                "kanji": "権利"
+                "kanji": "踊る"
             },
             {
-                "content": ["け", "い", "り"],
+                "content": ["お", "ど", "す"],
+                "en": "To put fear into someone",
+                "ja": "",
+                "kanji": "脅す"
+            },
+            {
+                "content": ["お", "と", "す"],
+                "en": "To let go of something from a height",
+                "ja": "",
+                "kanji": "落とす"
+            },
+            {
+                "content": ["お", "と", "こ"],
+                "en": "Half of the world's population",
+                "ja": "",
+                "kanji": "男"
+            },
+            {
+                "content": ["お", "と", "く"],
+                "en": "Something that is at a bargain price",
+                "ja": "",
+                "kanji": "お得"
+            },
+            {
+                "content": ["お", "た", "く"],
                 "en": "",
                 "ja": "",
-                "kanji": "経理"
+                "kanji": "オタク"
             },
             {
-                "content": ["は", "い", "り"],
+                "content": ["よ", "た", "く"],
                 "en": "",
                 "ja": "",
-                "kanji": "入り"
-            },
-            {
-                "content": ["は", "い", "ち"],
-                "en": "",
-                "ja": "",
-                "kanji": "配置"
-            },
-            {
-                "content": ["は", "い", "し"],
-                "en": "",
-                "ja": "",
-                "kanji": "廃止"
-            },
-            {
-                "content": ["は", "く", "し"],
-                "en": "",
-                "ja": "",
-                "kanji": "白紙"
-            },
-            {
-                "content": ["た", "く", "し"],
-                "en": "",
-                "ja": "",
-                "kanji": "タクシ"
-            },
-            {
-                "content": ["ど", "く", "し"],
-                "en": "",
-                "ja": "",
-                "kanji": "毒死"
+                "kanji": "余沢"
             }
         ]
     },
@@ -284,10 +280,10 @@
                 "kanji": "体温"
             },
             {
-                "content": ["た", "い", "れ", "い"],
+                "content": ["た", "ん", "れ", "ん"],
                 "en": "",
                 "ja": "",
-                "kanji": "大礼"
+                "kanji": "鍛錬"
             },
             {
                 "content": ["た", "お", "れ", "る"],
@@ -374,16 +370,28 @@
                 "kanji": "平均値"
             },
             {
-                "content": ["へ", "ん", "か", "ん", "ち"],
+                "content": ["て", "い", "き", "ん", "り"],
                 "en": "",
                 "ja": "",
-                "kanji": "変換値"
+                "kanji": "低金利"
             },
             {
-                "content": ["へ", "ん", "か", "きゅ", "う"],
+                "content": ["て", "い", "き", "ど", "う"],
                 "en": "",
                 "ja": "",
-                "kanji": "変化球"
+                "kanji": "低軌道"
+            },
+            {
+                "content": ["さ", "い", "か", "ど", "う"],
+                "en": "",
+                "ja": "",
+                "kanji": "再稼働"
+            },
+            {
+                "content": ["さ", "ん", "か", "しょ", "う"],
+                "en": "",
+                "ja": "",
+                "kanji": "参加賞"
             },
             {
                 "content": ["け", "ん", "か", "ちゅ", "う"],
@@ -404,34 +412,22 @@
                 "kanji": "花粉症"
             },
             {
-                "content": ["か", "ふ", "ん", "か", "ん"],
+                "content": ["ふ", "み", "ん", "しょ", "う"],
                 "en": "",
                 "ja": "",
-                "kanji": "花粉管"
+                "kanji": "不眠症"
             },
             {
-                "content": ["か", "い", "が", "か", "ん"],
+                "content": ["じ", "み", "ん", "と", "う"],
                 "en": "",
                 "ja": "",
-                "kanji": "絵画館"
+                "kanji": "自民党"
             },
             {
-                "content": ["え", "い", "が", "か", "ん"],
+                "content": ["に", "ほ", "ん", "と", "う"],
                 "en": "",
                 "ja": "",
-                "kanji": "映画館"
-            },
-            {
-                "content": ["え", "い", "ご", "ば", "ん"],
-                "en": "",
-                "ja": "",
-                "kanji": "英語版"
-            },
-            {
-                "content": ["に", "ほ", "ん", "ば", "ん"],
-                "en": "",
-                "ja": "",
-                "kanji": "日本版"
+                "kanji": "日本刀"
             },
             {
                 "content": ["に", "ほ", "ん", "じ", "ん"],
@@ -494,11 +490,6 @@
                 "ja": ""
             },
             {
-                "content": ["D", "O", "U", "B", "L", "Y"],
-                "en": "",
-                "ja": ""
-            },
-            {
                 "content": ["D", "O", "U", "B", "L", "E"],
                 "en": "",
                 "ja": ""
@@ -519,7 +510,22 @@
                 "ja": ""
             },
             {
-                "content": ["T", "A", "C", "K", "E", "D"],
+                "content": ["T", "I", "C", "K", "L", "E"],
+                "en": "",
+                "ja": ""
+            },
+            {
+                "content": ["T", "I", "C", "K", "E", "T"],
+                "en": "",
+                "ja": ""
+            },
+            {
+                "content": ["T", "I", "N", "K", "E", "R"],
+                "en": "",
+                "ja": ""
+            },
+            {
+                "content": ["T", "A", "N", "K", "E", "R"],
                 "en": "",
                 "ja": ""
             },

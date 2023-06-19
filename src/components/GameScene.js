@@ -5,7 +5,7 @@ export const GameScene = () => {
 
     const [gameData, setGameData] = useState([]);
     const [currentLevel, setCurrentLevel] = useState(null);
-    const [delay, setDelay] = useState(1);
+    const [delay, setDelay] = useState(2);
 
 
     useEffect(() => {
