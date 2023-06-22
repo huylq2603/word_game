@@ -29,7 +29,7 @@
             {
                 "content": ["いっ", "か", "い"],
                 "en": "Once",
-                "ja": "一回",
+                "ja": "「一階」と発音が同じ",
                 "kanji": "一回"
             }
         ]
@@ -43,52 +43,52 @@
             {
                 "content": ["W", "E", "L", "L"],
                 "en": "A hole drilled into the ground to access water",
-                "ja": ""
+                "ja": "水にアクセスするために地面に掘られた穴"
             },
             {
                 "content": ["C", "E", "L", "L"],
                 "en": "A small room in which prisoners are locked up",
-                "ja": ""
+                "ja": "囚人が閉じ込められている小さい部屋"
             },
             {
                 "content": ["C", "A", "L", "L"],
                 "en": "Carly Rae Jepsen's famous summer song - <...> Me Maybe",
-                "ja": ""
+                "ja": "誰かに電話する"
             },
             {
                 "content": ["C", "A", "L", "M"],
                 "en": "The opposite of anxious or nervous",
-                "ja": ""
+                "ja": "不安や緊張の対義語"
             },
             {
                 "content": ["P", "A", "L", "M"],
                 "en": "Type of tree often found near tropical beaches",
-                "ja": ""
+                "ja": "熱帯のビーチでよく見つかる木"
             },
             {
                 "content": ["P", "A", "L", "E"],
                 "en": "A person's skin that is lacking in color",
-                "ja": ""
+                "ja": "色が欠けている人の肌"
             },
             {
                 "content": ["P", "O", "L", "E"],
                 "en": "An object used frequently by exotic dancers",
-                "ja": ""
+                "ja": "ダンサーがよく使われる棒ざお"
             },
             {
                 "content": ["P", "O", "R", "E"],
                 "en": "Tiny skin hole",
-                "ja": ""
+                "ja": "皮膚の上にちっちゃい穴"
             },
             {
                 "content": ["C", "O", "R", "E"],
                 "en": "The central part of things/The demon <...> was a plutonium orb that killed two scientists",
-                "ja": ""
+                "ja": "物事の中心部分"
             },
             {
                 "content": ["C", "O", "M", "E"],
                 "en": "To move or travel towards a place",
-                "ja": ""
+                "ja": "来る"
             }
         ]
     },
@@ -101,61 +101,61 @@
             {
                 "content": ["お", "く", "ば"],
                 "en": "Broad and flat teeth in the back of a mammal, used for grinding food",
-                "ja": "",
+                "ja": "哺乳類にある最も深く配置して幅広で平らな歯で、食物をすりつぶすために使用されます",
                 "kanji": "奥歯"
             },
             {
                 "content": ["お", "き", "ば"],
                 "en": "A place to store things",
-                "ja": "",
+                "ja": "物をプットするところ",
                 "kanji": "置き場"
             },
             {
                 "content": ["お", "き", "る"],
-                "en": "The first thing you do in the morning",
-                "ja": "",
+                "en": "The first thing you have to do in the morning",
+                "ja": "朝最初にしなければならないこと",
                 "kanji": "起きる"
             },
             {
                 "content": ["お", "ど", "る"],
                 "en": "What Ziyu teached in last week's Joyful Friday/Body moving to music",
-                "ja": "",
+                "ja": "先週のJoyfulFridayでZiyuが教えてくれたこと/音楽に合わせて体を動かす",
                 "kanji": "踊る"
             },
             {
                 "content": ["お", "ど", "す"],
                 "en": "To put fear into someone",
-                "ja": "",
+                "ja": "おそれさせる",
                 "kanji": "脅す"
             },
             {
                 "content": ["お", "と", "す"],
-                "en": "To let go of something from a height",
-                "ja": "",
+                "en": "To unintentionally let go of something from a height",
+                "ja": "上から意図せず放す",
                 "kanji": "落とす"
             },
             {
                 "content": ["お", "と", "こ"],
                 "en": "Half of the world's population",
-                "ja": "",
+                "ja": "世界の人口の半分",
                 "kanji": "男"
             },
             {
                 "content": ["お", "と", "く"],
                 "en": "Something that is at a bargain price",
-                "ja": "",
+                "ja": "値段以上の価値がある物を買えること",
                 "kanji": "お得"
             },
             {
                 "content": ["お", "た", "く"],
-                "en": "",
-                "ja": "",
+                "en": "Person having an obsessive interest towards manga and anime",
+                "ja": "漫画とかアニメとか熱心する人",
                 "kanji": "オタク"
             },
             {
                 "content": ["よ", "た", "く"],
-                "en": "",
-                "ja": "",
+                "en": "Blessings of ancestors",
+                "ja": "先人が残した恩沢",
                 "kanji": "余沢"
             }
         ]
@@ -168,48 +168,48 @@
         "wordList": [
             {
                 "content": ["B", "R", "A", "I", "N"],
-                "en": "",
-                "ja": ""
+                "en": "The most important organ - according to itself",
+                "ja": "最も重要な臓器"
             },
             {
                 "content": ["B", "R", "O", "I", "L"],
-                "en": "",
-                "ja": ""
+                "en": "A cooking method involves apply direct heat from above",
+                "ja": "上から直接熱を加える調理方法"
             },
             {
                 "content": ["T", "R", "A", "I", "L"],
-                "en": "",
-                "ja": ""
+                "en": "A series of signs or markings left behind by the passage of someone or something",
+                "ja": "通過によって残された一連のマーキングまたは物"
             },
             {
                 "content": ["T", "R", "A", "D", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To exchange one thing for another",
+                "ja": "何かを別物と交換する"
             },
             {
                 "content": ["B", "L", "A", "D", "E"],
-                "en": "",
-                "ja": ""
+                "en": "Sharp, long object used in close-up combat",
+                "ja": "接近戦で使用されるシャープで長い物"
             },
             {
                 "content": ["G", "L", "I", "D", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To move smoothly, continuously, and effortlessly",
+                "ja": "スムーズに、継続的に、楽に移動する"
             },
             {
                 "content": ["E", "L", "I", "T", "E"],
-                "en": "",
-                "ja": ""
+                "en": "Superior, the top of the top",
+                "ja": "最高の最高"
             },
             {
                 "content": ["E", "M", "O", "T", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To portray emotion in a way that makes it very clear what you are feeling",
+                "ja": "感じている感情を明確に表現する"
             },
             {
                 "content": ["E", "M", "C", "E", "E"],
-                "en": "",
-                "ja": ""
+                "en": "A rapper",
+                "ja": "ラッパー"
             }
         ]
     },
@@ -221,80 +221,80 @@
         "wordList": [
             {
                 "content": ["げ", "ん", "い", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "The reason why something happens",
+                "ja": "ある物事を引き起こす元",
                 "kanji": "原因"
             },
             {
                 "content": ["げ", "ん", "き", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "Money in the form of notes and coins, rather than cheques or credit cards, or Paypay points, or bitcoin, or etc.",
+                "ja": "小切手やクレジットカードではなく、紙幣や小銭の形のお金",
                 "kanji": "現金"
             },
             {
                 "content": ["あ", "ん", "ぜ", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "Being protected from danger",
+                "ja": "危険から守られること",
                 "kanji": "安全"
             },
             {
                 "content": ["あ", "ん", "な", "い"],
-                "en": "",
-                "ja": "",
+                "en": "To help and give information about things to other people",
+                "ja": "様子を知っていて知らせること",
                 "kanji": "案内"
             },
             {
                 "content": ["あ", "い", "ま", "い"],
-                "en": "",
-                "ja": "",
+                "en": "Being hard to know in an exact, clear way about something",
+                "ja": "内容がしっかり捉えにくく、はっきりではないこと",
                 "kanji": "曖昧"
             },
             {
                 "content": ["た", "い", "か", "い"],
-                "en": "",
-                "ja": "",
+                "en": "A huge competition event with a lot of people",
+                "ja": "たくさんの人の集まる競争イベント",
                 "kanji": "大会"
             },
             {
                 "content": ["た", "い", "き", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "Leaving work at the end of the day",
+                "ja": "勤務時間が終わって、勤め先を出ること",
                 "kanji": "退勤"
             },
             {
                 "content": ["た", "い", "お", "う"],
-                "en": "",
-                "ja": "",
+                "en": "Appropriate judgement and handling in response to the situation",
+                "ja": "状況に応じて、適切に判断して処理すること",
                 "kanji": "対応"
             },
             {
                 "content": ["た", "ぴ", "お", "か"],
-                "en": "",
-                "ja": "",
+                "en": "The type of starch used as an ingredient to make boba",
+                "ja": "人気なお茶に入ってるボールを作る原料としてデンプン",
                 "kanji": "タピオカ"
             },
             {
                 "content": ["た", "い", "お", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "The temperature of one's body",
+                "ja": "体の温度",
                 "kanji": "体温"
             },
             {
                 "content": ["た", "ん", "れ", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "To improve through rigorous training",
+                "ja": "厳しい訓練や修養を積んで、改善する",
                 "kanji": "鍛錬"
             },
             {
                 "content": ["た", "お", "れ", "る"],
-                "en": "",
-                "ja": "",
+                "en": "Happens when you trip",
+                "ja": "何かに躓いて起こること",
                 "kanji": "倒れる"
             },
             {
                 "content": ["た", "お", "こ", "し"],
-                "en": "",
-                "ja": "",
+                "en": "Rice paddy plowing",
+                "ja": "田んぼの土を耕すこと",
                 "kanji": "田起こし"
             }
         ]
@@ -307,53 +307,53 @@
         "wordList": [
             {
                 "content": ["M", "O", "T", "H", "S"],
-                "en": "",
-                "ja": ""
+                "en": "They are a type of insect similar to butterflies that can eat clothes",
+                "ja": "服を食えて蝶のような昆虫"
             },
             {
                 "content": ["M", "O", "N", "K", "S"],
-                "en": "",
-                "ja": ""
+                "en": "Men that are members of a religious group, not married and often live together in a monastery",
+                "ja": "宗教団体の会員で、結婚しておらず、修道院で一緒に住んでいる男性の人々"
             },
             {
                 "content": ["M", "O", "N", "E", "Y"],
-                "en": "",
-                "ja": ""
+                "en": "It is used to pay in exchange for things or services",
+                "ja": "商品やサービスと引き換えに支払うために使用される物"
             },
             {
                 "content": ["B", "O", "N", "E", "S"],
-                "en": "",
-                "ja": ""
+                "en": "Human have 206 of these in their body",
+                "ja": "人間の体内にはこれらが206本あります"
             },
             {
                 "content": ["H", "O", "N", "E", "Y"],
-                "en": "",
-                "ja": ""
+                "en": "The hard-earned reward of the labor of bees that we consume",
+                "ja": "私たちが食べる苦労して得たミツバチの労働の産物"
             },
             {
                 "content": ["H", "O", "R", "N", "Y"],
-                "en": "",
-                "ja": ""
+                "en": "Sexually, and I mean SEXUALLY, excited",
+                "ja": "性的に興奮している"
             },
             {
                 "content": ["H", "O", "R", "N", "S"],
-                "en": "",
-                "ja": ""
+                "en": "Hard, pointy bone encased in keratinized skin things often found on animals' head",
+                "ja": "角質化した皮膚に包まれた硬くてとがった骨で、動物の頭によく見られるもの"
             },
             {
                 "content": ["H", "O", "W", "L", "S"],
-                "en": "",
-                "ja": ""
+                "en": "The long, loud sounds coming from dog-like animals, especially wolves",
+                "ja": "犬のような動物、特にオオカミから発せられる長くて大きな音"
             },
             {
                 "content": ["G", "O", "A", "L", "S"],
-                "en": "",
-                "ja": ""
+                "en": "Things similar to the name of one of Colorkrew's services",
+                "ja": "Colorkrewのサービスの名前に似ているもの"
             },
             {
                 "content": ["K", "O", "A", "L", "A"],
-                "en": "",
-                "ja": ""
+                "en": "An Australian mammal with greyish fur that lives on trees and chews on leaves",
+                "ja": "木の上に住んで葉を食える、灰色い毛皮を持つオーストラリアの哺乳類"
             }
         ]
     },
@@ -365,80 +365,80 @@
         "wordList": [
             {
                 "content": ["へ", "い", "き", "ん", "ち"],
-                "en": "",
-                "ja": "",
+                "en": "The average value",
+                "ja": "データを単純に足し、その合計値をデータの数で割ったもの",
                 "kanji": "平均値"
             },
             {
                 "content": ["て", "い", "き", "ん", "り"],
-                "en": "",
-                "ja": "",
+                "en": "Opposite of high interest rates",
+                "ja": "高金利の反対",
                 "kanji": "低金利"
             },
             {
                 "content": ["て", "い", "き", "ど", "う"],
-                "en": "",
-                "ja": "",
+                "en": "Orbiting the Earth with a low altitude (2,000 km or less)",
+                "ja": "低い高度(2,000km以下)で地球の周回",
                 "kanji": "低軌道"
             },
             {
                 "content": ["さ", "い", "か", "ど", "う"],
-                "en": "",
-                "ja": "",
+                "en": "The resumption of operations",
+                "ja": "もう一度機械など働かせること",
                 "kanji": "再稼働"
             },
             {
                 "content": ["さ", "ん", "か", "しょ", "う"],
-                "en": "",
-                "ja": "",
+                "en": "A 'reward' one gets for merely participating",
+                "ja": "参列するだけでもらえる賞品",
                 "kanji": "参加賞"
             },
             {
                 "content": ["け", "ん", "か", "ちゅ", "う"],
-                "en": "",
-                "ja": "",
+                "en": "Currently in a fight with eachother",
+                "ja": "現在お互いに争っていること",
                 "kanji": "喧嘩中"
             },
             {
                 "content": ["か", "い", "か", "ちゅ", "う"],
-                "en": "",
-                "ja": "",
+                "en": "Currenly blooming, refering to flowers",
+                "ja": "花が咲き始めていること",
                 "kanji": "開花中"
             },
             {
                 "content": ["か", "ふ", "ん", "しょ", "う"],
-                "en": "",
-                "ja": "",
+                "en": "A type of allergic condition triggered by pollen, usually peaks around February to May in Japan",
+                "ja": "花に関係するアレルギー症状で、日本では通常2月から5月頃にピークを迎える。",
                 "kanji": "花粉症"
             },
             {
                 "content": ["ふ", "み", "ん", "しょ", "う"],
-                "en": "",
-                "ja": "",
+                "en": "A sleep disorder that make it hard to fall asleep or to stay asleep",
+                "ja": "眠りにつくか眠り続けることが困難になる睡眠障害",
                 "kanji": "不眠症"
             },
             {
                 "content": ["じ", "み", "ん", "と", "う"],
-                "en": "",
-                "ja": "",
+                "en": "The main political party of Japan",
+                "ja": "日本最大の政党の名前",
                 "kanji": "自民党"
             },
             {
                 "content": ["に", "ほ", "ん", "と", "う"],
-                "en": "",
-                "ja": "",
+                "en": "A general term for swords made by the blacksmithing method unique to Japan",
+                "ja": "日本固有の鍛冶製法によって作られた刀類の総称",
                 "kanji": "日本刀"
             },
             {
                 "content": ["に", "ほ", "ん", "じ", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "(This one is very straight forward) People from Japan",
+                "ja": "日本の国籍を持ってる人",
                 "kanji": "日本人"
             },
             {
                 "content": ["や", "ば", "ん", "じ", "ん"],
-                "en": "",
-                "ja": "",
+                "en": "Group of people that are often considered aggressive and civilized",
+                "ja": "不作法で粗暴な人",
                 "kanji": "野蛮人"
             }
         ]
@@ -451,88 +451,88 @@
         "wordList": [
             {
                 "content": ["V", "A", "N", "I", "S", "H"],
-                "en": "",
-                "ja": ""
+                "en": "To disappear suddenly and completely",
+                "ja": "突然完全に消える"
             },
             {
                 "content": ["F", "I", "N", "I", "S", "H"],
-                "en": "",
-                "ja": ""
+                "en": "Coming to and end/Complele",
+                "ja": "終結する"
             },
             {
                 "content": ["F", "I", "N", "I", "T", "E"],
-                "en": "",
-                "ja": ""
+                "en": "Having definable limits in size, extend, quantity, etc.",
+                "ja": "サイズとか数量とか定義可能な制限を持つ"
             },
             {
                 "content": ["I", "G", "N", "I", "T", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To catch fire or to cause something to catch fire",
+                "ja": "発火すること、または何かに発火させること"
             },
             {
                 "content": ["I", "N", "N", "A", "T", "E"],
-                "en": "",
-                "ja": ""
+                "en": "Qualities, abilities or factors of individual that represent naturally and inherently from birth ",
+                "ja": "生まれつき"
             },
             {
                 "content": ["D", "O", "N", "A", "T", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To give something away for a good cause, often charity",
+                "ja": "公のことや正当な理由のため、お金や品物を贈る"
             },
             {
                 "content": ["D", "O", "N", "U", "T", "S"],
-                "en": "",
-                "ja": ""
+                "en": "Sweet, delicious fried cake, often made round with a hole in the middle",
+                "ja": "小麦粉などをこねて輪形にして油で揚げた洋菓子。"
             },
             {
                 "content": ["D", "O", "U", "B", "T", "S"],
-                "en": "",
-                "ja": ""
+                "en": "These are feelings of uncertainty",
+                "ja": "不確実な感情"
             },
             {
                 "content": ["D", "O", "U", "B", "L", "E"],
-                "en": "",
-                "ja": ""
+                "en": "Twice as much or as many",
+                "ja": "2倍になる"
             },
             {
                 "content": ["C", "O", "U", "P", "L", "E"],
-                "en": "",
-                "ja": ""
+                "en": "Two people or things that are considered together",
+                "ja": "一緒に考えられる２つのものまたは二人"
             },
             {
                 "content": ["C", "O", "C", "K", "L", "E"],
-                "en": "",
-                "ja": ""
+                "en": "A small, rounded sea creature with a shell",
+                "ja": "甲羅を持った小さくて丸い海の生き物"
             },
             {
                 "content": ["T", "A", "C", "K", "L", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To make attempt to deal with problem",
+                "ja": "問題に対処しようとすること"
             },
             {
                 "content": ["T", "I", "C", "K", "L", "E"],
-                "en": "",
-                "ja": ""
+                "en": "To lightly touch in a way that causes laughter/How many of these <...> to make an octopus laugh. Ten-<...>",
+                "ja": "笑いを引き起こすように軽く触れること"
             },
             {
                 "content": ["T", "I", "C", "K", "E", "T"],
-                "en": "",
-                "ja": ""
+                "en": "A thing that gives the holder the right to enter a place, an event or to travel by public transport",
+                "ja": "どこか入ったり何のサービスの利用したりするために必須なもの"
             },
             {
                 "content": ["T", "I", "N", "K", "E", "R"],
-                "en": "",
-                "ja": ""
+                "en": "Someone who repairs or invents anything mechanical/Peter Pan and <...> Bell",
+                "ja": "機械的なものを修理したり発明したりする人"
             },
             {
                 "content": ["T", "A", "N", "K", "E", "R"],
-                "en": "",
-                "ja": ""
+                "en": "Type of vehicle or vessel carrying liquid in bulk",
+                "ja": "液体を大量に輸送する車両または容器の種類"
             },
             {
                 "content": ["T", "A", "N", "N", "E", "D"],
-                "en": "",
-                "ja": ""
+                "en": "Having darkened skin after exposure to the sun",
+                "ja": "太陽にさらされた後、肌が黒ずんでいる"
             }
         ]
     }
