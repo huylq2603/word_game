@@ -521,8 +521,8 @@
             },
             {
                 "content": ["T", "I", "N", "K", "E", "R"],
-                "en": "Someone who repairs or invents anything mechanical/Peter Pan and <...> Bell",
-                "ja": "機械的なものを修理したり発明したりする人/ピーターパンと一緒にいる妖精"
+                "en": "php artisan <...>/Peter Pan and <...> Bell/Someone who repairs or invents anything mechanical",
+                "ja": "php artisan <...>/ピーターパンと一緒にいる妖精/機械的なものを修理したり発明したりする人"
             },
             {
                 "content": ["T", "A", "N", "K", "E", "R"],
