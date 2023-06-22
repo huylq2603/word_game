@@ -8,7 +8,7 @@
             {
                 "content": ["M", "U", "D"],
                 "en": "A soft, sticky substance resulting from the mixing of earth and water",
-                "ja": "土と水を混ぜると柔らかくてねばねばするもの"
+                "ja": "土と水を混ぜて出来る柔らかくてネバネバするもの"
             },
             {
                 "content": ["M", "A", "D"],
@@ -18,12 +18,12 @@
             {
                 "content": ["M", "A", "T"],
                 "en": "Little rug at the door",
-                "ja": "ドア前に小さいラグ"
+                "ja": "ドア前にある小さなラグ"
             },
             {
                 "content": ["いっ", "しょ", "う"],
                 "en": "Lifetime",
-                "ja": "一生",
+                "ja": "人生の長さ全て",
                 "kanji": "一生"
             },
             {
@@ -53,7 +53,7 @@
             {
                 "content": ["C", "A", "L", "L"],
                 "en": "Carly Rae Jepsen's famous summer song - <...> Me Maybe",
-                "ja": "誰かに電話する"
+                "ja": "カーリー・レイ・ジェプセンの有名な歌 - <...> Me Maybe"
             },
             {
                 "content": ["C", "A", "L", "M"],
@@ -78,7 +78,7 @@
             {
                 "content": ["P", "O", "R", "E"],
                 "en": "Tiny skin hole",
-                "ja": "皮膚の上にちっちゃい穴"
+                "ja": "皮膚にあるちっちゃい穴"
             },
             {
                 "content": ["C", "O", "R", "E"],
@@ -149,7 +149,7 @@
             {
                 "content": ["お", "た", "く"],
                 "en": "Person having an obsessive interest towards manga and anime",
-                "ja": "漫画とかアニメとか熱心する人",
+                "ja": "漫画とかアニメに熱中する人",
                 "kanji": "オタク"
             },
             {
@@ -199,7 +199,7 @@
             {
                 "content": ["E", "L", "I", "T", "E"],
                 "en": "Superior, the top of the top",
-                "ja": "最高の最高"
+                "ja": "最高の最高/優秀な人"
             },
             {
                 "content": ["E", "M", "O", "T", "E"],
@@ -209,7 +209,7 @@
             {
                 "content": ["E", "M", "C", "E", "E"],
                 "en": "A rapper",
-                "ja": "ラッパー"
+                "ja": "ラッパー/司会者"
             }
         ]
     },
@@ -270,7 +270,7 @@
             {
                 "content": ["た", "ぴ", "お", "か"],
                 "en": "The type of starch used as an ingredient to make boba",
-                "ja": "人気なお茶に入ってるボールを作る原料としてデンプン",
+                "ja": "人気のお茶に入ってるデンプンで出来たボール",
                 "kanji": "タピオカ"
             },
             {
@@ -308,7 +308,7 @@
             {
                 "content": ["M", "O", "T", "H", "S"],
                 "en": "They are a type of insect similar to butterflies that can eat clothes",
-                "ja": "服を食えて蝶のような昆虫"
+                "ja": "服を食べる蝶のような昆虫"
             },
             {
                 "content": ["M", "O", "N", "K", "S"],
@@ -353,7 +353,7 @@
             {
                 "content": ["K", "O", "A", "L", "A"],
                 "en": "An Australian mammal with greyish fur that lives on trees and chews on leaves",
-                "ja": "木の上に住んで葉を食える、灰色い毛皮を持つオーストラリアの哺乳類"
+                "ja": "木の上に住んで葉を食べる、灰色い毛を持つオーストラリアの哺乳類"
             }
         ]
     },
@@ -378,7 +378,7 @@
             {
                 "content": ["て", "い", "き", "ど", "う"],
                 "en": "Orbiting the Earth with a low altitude (2,000 km or less)",
-                "ja": "低い高度(2,000km以下)で地球の周回",
+                "ja": "(衛星などが)低い高度(2,000km以下)で地球を周回すること",
                 "kanji": "低軌道"
             },
             {
@@ -456,7 +456,7 @@
             },
             {
                 "content": ["F", "I", "N", "I", "S", "H"],
-                "en": "Coming to and end/Complele",
+                "en": "Coming to and end/Complete",
                 "ja": "終結する"
             },
             {
@@ -517,12 +517,12 @@
             {
                 "content": ["T", "I", "C", "K", "E", "T"],
                 "en": "A thing that gives the holder the right to enter a place, an event or to travel by public transport",
-                "ja": "どこか入ったり何のサービスの利用したりするために必須なもの"
+                "ja": "どこかの場所やイベントに入場したり、公共交通機械を使って旅行する際に必要なもの"
             },
             {
                 "content": ["T", "I", "N", "K", "E", "R"],
                 "en": "Someone who repairs or invents anything mechanical/Peter Pan and <...> Bell",
-                "ja": "機械的なものを修理したり発明したりする人"
+                "ja": "機械的なものを修理したり発明したりする人/ピーターパンと一緒にいる妖精"
             },
             {
                 "content": ["T", "A", "N", "K", "E", "R"],
